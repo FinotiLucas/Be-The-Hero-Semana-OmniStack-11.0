@@ -37,17 +37,8 @@ Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 
 ### :mortar_board: Quem ministrou?
 
-A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
+A semana foi ministrada por [Diego Fernandes](https://github.com/diego3g)
 
 ### :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-### :muscle: Quem deu aquela força para não desistir?
-
-O pessoal da He4rt Developers e da Rocketseat deram aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
-Entrem na [comunidade da He4rt Developers](https://discord.gg/8mA4CM2) e [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
-
----
-
-Feito com ❤️ by João Carli :wave:
