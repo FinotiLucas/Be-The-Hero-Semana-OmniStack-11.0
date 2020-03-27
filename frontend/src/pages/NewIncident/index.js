@@ -33,7 +33,7 @@ export default function NewIncident(){
             }
         });
         try {
-            alert(`Seu ID é ${response.data.id}`);
+            alert(`Seu caso foi cadastrado com sucesso`);
             history.push(`/profile/${ongId}`)
         }
         catch(err){

@@ -16,6 +16,8 @@ import api from '../../services/api'
 export default function Logon(){
 
     const [id, setId] = useState('');
+    const [password, setPassword] = useState('');
+
     const history = useHistory();
     async function handleLogin(e){
         e.preventDefault();
@@ -42,7 +44,14 @@ export default function Logon(){
                         value={id}
                         onChange={e => setId(e.target.value)}
                     >
-                        Sua ID
+                        Email
+                    </Input>
+
+                    <Input
+                        value={password}
+                        onChange={e => setPassword(e.target.value)}
+                    >
+                        Senha
                     </Input>
 
                     <Button>Entrar</Button>

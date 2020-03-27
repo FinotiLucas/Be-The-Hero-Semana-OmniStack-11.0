@@ -1,4 +1,4 @@
-# Be The Hero - Semana OmniStack 11.0
+# Be The Hero
 
 
 <h4 align="center">
@@ -35,9 +35,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
 
-### :mortar_board: Quem ministrou?
-
-A semana foi ministrada por [Diego Fernandes](https://github.com/diego3g)
 
 ### :memo: Licença
 

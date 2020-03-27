@@ -14,6 +14,8 @@ export default function Register(){
 
     const[name, setName] = useState('');
     const[email, setEmail] = useState('');
+    const[password, setPassword] = useState('');
+    const[password_confirmation, setPasswordConfirmation] = useState('');
     const[whatsapp, setWhatsapp] = useState('');
     const[city, setCity] = useState('');
     const[uf, setUf] = useState('');
@@ -56,7 +58,7 @@ export default function Register(){
                         value={name}
                         onChange={e => setName(e.target.value)}
                     >
-                        Nome da Ong
+                        Nome da sua ONG
                     </Input>
 
                     <Input
@@ -65,6 +67,22 @@ export default function Register(){
                         onChange={ e => setEmail(e.target.value)}
                     >
                         Email
+                    </Input>
+
+                    <Input
+                        type="password"
+                        value={password}
+                        onChange={ e => setPassword(e.target.value)}
+                    >
+                        Digite sua senha
+                    </Input>
+
+                    <Input
+                        type="password"
+                        value={password_confirmation}
+                        onChange={ e => setPasswordConfirmation(e.target.value)}
+                    >
+                        Confirme a sua senha
                     </Input>
 
                     <Input
