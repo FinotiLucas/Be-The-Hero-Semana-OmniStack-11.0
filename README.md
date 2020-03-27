@@ -1,8 +1,8 @@
-# Be The Hero Semana OmniStack 11.0
+# Be The Hero - Semana OmniStack 11.0
 
 
 <h4 align="center">
-<img src="./img/img.png" width="250px" /><br>
+<img src="./web/frontend/src/assets/heroes.png" width="250px" /><br>
  <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
 </h4>
 <p align="center">
@@ -15,7 +15,7 @@
 <br>
 
 ### :rocket: Tecnologias usadas
-Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
@@ -24,7 +24,7 @@ Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 
 ### :muscle: Projeto
 
-<b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter. 
+<b>Be the Hero</b> é um projeto que visa ajudar uma instituição de caridade encontrando pessoas para financiar seus projetos.
 
 
 
