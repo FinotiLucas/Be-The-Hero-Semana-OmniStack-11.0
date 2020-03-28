@@ -55,7 +55,23 @@ export default function Profile(){
                     <FiPower height={18} color="#E02041" />
                 </button>
             </header>
-            <h1>Casos Cadastrados</h1>
+            <div className="naviagtion">
+
+
+                <Link className="link" to="/feed">
+                    <button type="button" className="button" onClick={()=>handleLogout()}>
+                        Meus Casos
+                    </button>
+                </Link>
+
+                <div className="padding"/>
+
+                <Link className="link" to="/profile">
+                <button type="button" className="button" onClick={()=>handleLogout()}>
+                    Todos os Casos
+                </button>
+                </Link>
+            </div>
             <ul>
                 {incidents.map(
                     incidents =>(

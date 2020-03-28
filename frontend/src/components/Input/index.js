@@ -13,8 +13,6 @@ export function TextArea({ children, ...props }) {
   return (
     <textarea {...props}
       placeholder={children}
-    >
-
-    </textarea>
+    />
   );
 }

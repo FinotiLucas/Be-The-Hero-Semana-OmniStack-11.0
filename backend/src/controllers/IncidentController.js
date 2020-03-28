@@ -11,8 +11,8 @@ module.exports = {
 
     const incidents = await connection('incidents')
     .join('ongs', 'ongs.id', '=', 'incidents.ong_id')
-    .limit(5)
-    .offset((page - 1) * 5)
+    .limit(10)
+    .offset((page - 1) * 10)
     .select(['incidents.*',
             'ongs.name',
             'ongs.email',
@@ -22,7 +22,7 @@ module.exports = {
           ]);
 
     response.header('X-Total-Count', count['count(*)'])
-    
+
     return response.json(incidents);
   },
 

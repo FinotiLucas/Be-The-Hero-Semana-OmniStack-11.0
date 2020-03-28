@@ -2,7 +2,7 @@
 
 
 <h4 align="center">
-<img src="./frontend/src/assets/heroes.png" width="250px" /><br>
+<img src="./mobile/src/assets/logo.png" width="250px" /><br>
  <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
 </h4>
 <p align="center">
@@ -20,6 +20,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
 - [React](https://pt-br.reactjs.org/)
+- [ReactNative](https://reactnative.dev/)
 
 
 ### :muscle: Projeto
@@ -27,6 +28,29 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <b>Be the Hero</b> é um projeto que visa ajudar uma instituição de caridade encontrando pessoas para financiar seus projetos.
 
 
+### : Web
+
+<p>
+
+<img  src="./screenshots/1.png"  width=265/>
+
+<img  src="./screenshots/2.png"  width=265/>
+
+<img  src="./screenshots/3.png"  width=265/>
+
+</p>
+
+### : Mobile
+
+<p>
+
+<img  src="./screenshots/1.jpeg"  width=265/>
+
+<img  src="./screenshots/2.jpeg"  width=265/>
+
+<img  src="./screenshots/3.jpeg"  width=265/>
+
+</p>
 
 ### :recycle: Como contribuir
 

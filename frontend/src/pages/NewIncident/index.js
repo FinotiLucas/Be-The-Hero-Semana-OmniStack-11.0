@@ -66,7 +66,8 @@ export default function NewIncident(){
                         value={description}
                         onChange={e => setDescription(e.target.value)}
                     >
-                        Descrição</TextArea>
+                        Descrição
+                    </TextArea>
 
                     <Input
                         type="text"
